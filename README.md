@@ -1,6 +1,8 @@
 
 A project to access Rootshell's Public API built with [poetry](https://python-poetry.org/)
 
+[pypi](https://pypi.org/project/rootshell_platform_api/)
+
 ---
 
 ## Installation
