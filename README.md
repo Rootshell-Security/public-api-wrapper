@@ -29,7 +29,7 @@ The `API_ENDPOINT` is the endpoint for your specific tenant, for example `https:
 You can run commands using the `rootshell_platform` prefix. Running this on its own will give
 you a list of options to run. 
 
-For example, running `rootshell_platfor projects get-paginated` will give you a list of paginated projects for your tenant.
+For example, running `rootshell_platform projects get-paginated` will give you a list of paginated projects for your tenant.
 
 
 ---
